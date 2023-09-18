@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-mend
-- 👀 I’m interested in books and chess
-- 🌱 I’m currently learning coding 
+- 👀 I’m interested in big data and artificial intelligence 
+- 🌱 I’m currently learning Data analysis and machine learning 
 - 💞️ I’m looking to collaborate on new business ideas 
 - 📫 How to reach me @k_m_e_n_d_ on all socials
 
