@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=300&section=header&text=Hi%20there,%20I'm%20Kelvin!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Research%20Engineer%20%7C%20AI%20for%20Sustainability%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=62" />
-</div>
-
 <h3 align="center">
   Bridging the gap between <b>Foundational AI Research</b> and <b>Scalable Cloud Engineering</b>.
 </h3>
@@ -60,15 +56,5 @@ My work focuses on the intersection of **Generative AI (RAG/Vision)** and **Clou
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-mend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-mend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
   <sub><i>"Data is the new oil, but Intelligence is the new engine."</i></sub>
 </div>
