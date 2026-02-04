@@ -19,9 +19,7 @@ I am a **B.Sc. Mathematics & Computer Science** student at **Kenyatta University
 
 My work focuses on the intersection of **Generative AI (RAG/Vision)** and **Cloud Infrastructure**. I don't just train models in notebooks; I deploy them to production using **AWS Lambda, Docker, and FastAPI**.
 
-- 🔭 I’m currently working on **Multi-modal AI for Crop Disease Diagnosis (Llama 3.2 Vision)**.
-- 🌱 I’m currently learning **Advanced Model Quantization & Edge AI Optimization**.
-- 💡 I’m looking to collaborate on **Open Source AI for Climate Action**.
+- 💡 I’m looking to collaborate on **Open Source Machine learning projects**.
 
 ---
 
