@@ -52,7 +52,7 @@ My work focuses on the intersection of **Generative AI (RAG/Vision)** and **Clou
 * **The Engineering:** Deployed via **Docker Compose** with an Intelligent Routing API (OpenRouteService).
 * **The Impact:** Provides real-time rainfall prediction, crop disease diagnosis, and weather-safe transport routes for farmers.
 
-#### ☁️ [Weather Image Classification: Serverless vs. EC2](https://github.com/k-mend/weather-classification-deployment)
+#### ☁️ [Weather Image Classification: Serverless vs. EC2](https://github.com/k-mend/machine-learning/tree/main/Deep%20Learning%20Capstone%20Weather%20Project)
 > *Benchmarking Deep Learning Deployment Architectures.*
 * **The Tech:** Transfer Learning (**Xception**), TensorFlow Lite (Quantization).
 * **The Engineering:** A comparative study deploying the same model on **AWS Lambda (Serverless)** vs. **AWS EC2 (Persistent)**.
