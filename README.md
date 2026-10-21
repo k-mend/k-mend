@@ -50,9 +50,9 @@ My work focuses on the intersection of **Generative AI (RAG/Vision)** and **Clou
 
 | **Certification** | **Issuer** | **Year** | **Credential** |
 |:---|:---|:---:|:---:|
-| Your certification name | Issuer (e.g. AWS, Google, Coursera) | 2025 | [Verify](https://example.com) |
-| Your certification name | Issuer | 2025 | [Verify](https://example.com) |
-| Your certification name | Issuer | 2024 | [Verify](https://example.com) |
+| machine learning | data talks club | 2025 | [Verify](https://certificate.datatalks.club/ml-zoomcamp/2025/08ea740958320f9ba762ea9c536fda3a30ca2d30.pdf) |
+| AWS AI Practitioner Challenge | udacity | 2025 | [Verify](www.udacity.com/certificate/e/a2e98928-3198-11f1-b7e4-8b91581bd552.) |
+
 
 ---
 
